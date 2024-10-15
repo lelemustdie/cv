@@ -19,7 +19,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: rgb(239, 171, 237);
+    background-color: rgb(227, 255, 224);
 }
 
 .container{
@@ -40,7 +40,7 @@ a {
 
 .container .left-side{
     position: relative;
-    background-color: #b34a87;
+    background-color: #9cb18f;
     padding: 20px;
     color:#fff;
 }
@@ -121,7 +121,7 @@ a {
 
 .contact .contact-icon,
 .skills .skills-icon{
-    color:#e69fdb;
+    color: #dbffd0;
     width: 20px;
 }
 
@@ -135,7 +135,7 @@ a {
 }
 
 .education .year{
-    color:#e69fdb;
+    color: #d9fdce;
     font-weight: 600;
     padding-top: 5px;
 }
@@ -156,7 +156,7 @@ a {
 
 .right-side h2{
     text-transform: uppercase;
-    color: #ee81de;
+    color: #9bb08e;
     font-size: 20px;
     letter-spacing: 1px;
 }
